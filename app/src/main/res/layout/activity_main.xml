@@ -130,5 +130,5 @@
         android:text="R$ 349238,00"
         android:textAlignment="center"
         android:textSize="26sp"/>
-
+//https://www.eficienciamaxima.com.br/como-calcular-o-consumo-de-energia-eletrica/
 </androidx.constraintlayout.widget.ConstraintLayout>
